@@ -1,11 +1,7 @@
-def hello ( ):
+def hello():
     return "Hello world!"
 
 
-
-
-
-
 if __name__ == "__main__":
-    ret= hello()
+    ret = hello()
     print(ret)

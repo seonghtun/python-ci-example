@@ -1,6 +1,2 @@
 black==22.6.0
-<<<<<<< HEAD
 coverage==6.4.4
-=======
-coverage==6.4.4
->>>>>>> 090d13a8429030aaf32bf68fd9699ee68c4b25d5

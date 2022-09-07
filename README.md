@@ -4,12 +4,12 @@
 
 ## How to run?
 
-'''sh
+'''bash
 $ python main.py
 '''
 
 ## How to run test code?
 
-'''sh
+'''bash
 $ python -m unittest discover -p "*_test.py"
 '''
